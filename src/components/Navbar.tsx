@@ -12,9 +12,6 @@ export function Navbar() {
           <Nav.Link to="/store" as={NavLink}>
             Store
           </Nav.Link>
-          <Nav.Link to="/about" as={NavLink}>
-            About
-          </Nav.Link>
         </Nav>
         <Button
           style={{ width: "3rem", height: "3rem", position: "relative" }}
@@ -23,8 +20,6 @@ export function Navbar() {
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="16"
-            height="16"
             fill="currentColor"
             viewBox="0 0 16 16"
           >

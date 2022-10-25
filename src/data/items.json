@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "PlayStation Controller",
+    "price": 79.99,
+    "imgUrl": "/images/controller.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Headset",
+    "price": 160,
+    "imgUrl": "/images/headset.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Keyboard",
+    "price": 99,
+    "imgUrl": "/images/keyboard.png"
+  },
+  {
+    "id": 4,
+    "name": "Mouse pad",
+    "price": 35,
+    "imgUrl": "/images/mousepad.jpeg"
+  }
+]
