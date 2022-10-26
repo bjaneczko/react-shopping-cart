@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "PlayStation Controller",
+    "name": "Controller",
     "price": 79.99,
     "imgUrl": "/images/controller.jpeg"
   },
@@ -19,7 +19,7 @@
   },
   {
     "id": 4,
-    "name": "Mouse pad",
+    "name": "Mouse Pad",
     "price": 35,
     "imgUrl": "/images/mousepad.jpeg"
   }
